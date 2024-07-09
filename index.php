@@ -76,7 +76,7 @@
   ?>
 
   <div class="calculator">
-    <h1 class="title">Calculator</h1>
+    <h1 class="title">CALCULATOR</h1>
     <div class="display"><?php echo $display; ?></div>
     <form method="post">
       <div>
