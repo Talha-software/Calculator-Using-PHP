@@ -48,14 +48,12 @@
 }
 .button.equals {
   background-color: #5bc0de;
-  /* width: 126px; */
 }
 .button.equals:hover {
   background-color: #4e4e4e;
 }
 .button.clear {
   background-color: #d9534f;
-  /* width: 126px; */
 }
 .button.clear:hover {
   background-color: #4e4e4e;
